@@ -17,11 +17,11 @@ btn-2👇🏽
 btn-3👇🏽
 - Changed the background color to be the same as the body
 - Changed the border values
-- Added a box-shadow that animates infinitely when hover over, giving a pulse effect.
+- Added a box-shadow that animates infinitely when hovered over, giving a pulse effect.
 
 ## Challenges Faced
 - I struggled to understand the ::before & ::after pseudo-elements in the codepen and how everything works together to make the animation possible.
-- I struggled to add an ease timing function to the gradient on btn-2 so it switches snoothly.
+- I struggled to add an ease timing function to the gradient on btn-2 so it switches smoothly.
 
 ## Features I Am Proud Of
 - I am particularly proud of how I was able to use what I learned in CSS animation up until this point (the keyframes and transition/animation properties).
